@@ -275,9 +275,6 @@ _*${jhari} Hari ${jjam} Jam ${mmmenit} Menit ${ddetik} Detik*_
 ❏ 𝙍𝘼𝙈𝘼𝘿𝘼𝙉
 _*${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik*_
 
-❏ 𝙐𝙇𝘼𝙉𝙂 𝙏𝘼𝙃𝙐𝙉 𝙊𝙒𝙉𝙀𝙍
-_*${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik*_
-
 ${pe}Note: Jika ada Fitur yg Error Lapor ke owner${pe}`,
       footer: wm,
       title: judul,
